@@ -1,0 +1,1 @@
+a file named test that using in delete operation.
