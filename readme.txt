@@ -7,3 +7,4 @@ Creating a new branch is quick and simple
 Creating a new line.
 Creating another line.
 Creating another 2 lines.
+Creating a 3 line.
